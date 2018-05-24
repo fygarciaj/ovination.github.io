@@ -1,0 +1,31 @@
+{
+    "name": "ovisort",
+    "version": "1.0.0",
+    "description": "Objeto Virtual de Aprendizaje, UNAD",
+    "main": "index.js",
+    "directories": {
+        "doc": "doc"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/fygarciaj/ovisort.git"
+    },
+    "keywords": [
+        "ovi",
+        "virtual",
+        "educacion"
+    ],
+    "author": "Fabian Garcia",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/fygarciaj/ovisort/issues"
+    },
+    "homepage": "https://github.com/fygarciaj/ovisort#readme",
+    "dependencies": {
+        "bootstrap": "^4.1.1",
+        "mdbootstrap": "^4.5.3"
+    }
+}
