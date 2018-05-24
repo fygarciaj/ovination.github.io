@@ -1,2 +1,3 @@
-# ovination.github.io
-Indexador de Objetos Virtuales de Información
+# ovisort.github.io
+
+Objeto Virtual de Información sobre algunos métodos de ordenamiento.
