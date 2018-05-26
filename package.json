@@ -26,6 +26,7 @@
     "homepage": "https://github.com/fygarciaj/ovisort#readme",
     "dependencies": {
         "bootstrap": "^4.1.1",
+        "code-prettify": "^0.1.0",
         "mdbootstrap": "^4.5.3"
     }
 }
