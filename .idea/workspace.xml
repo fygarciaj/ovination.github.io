@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7fdc4dc4-0e8d-49d7-b93e-04bb3dcc20db" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/autores.html" afterPath="$PROJECT_DIR$/autores.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/estilos_unad.css" afterPath="$PROJECT_DIR$/css/estilos_unad.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mdbootstrap/css/bootstrap.css" afterPath="$PROJECT_DIR$/node_modules/mdbootstrap/css/bootstrap.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,11 +13,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="271">
-              <caret line="29" column="66" lean-forward="false" selection-start-line="29" selection-start-column="66" selection-end-line="29" selection-end-column="66" />
+            <state relative-caret-position="154">
+              <caret line="22" column="10" lean-forward="false" selection-start-line="22" selection-start-column="2" selection-end-line="82" selection-end-column="13" />
+              <folding>
+                <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="autores.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/autores.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="169">
+              <caret line="71" column="42" lean-forward="false" selection-start-line="71" selection-start-column="42" selection-end-line="71" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -47,8 +54,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/css/estilos_unad.css" />
-        <option value="$PROJECT_DIR$/autores.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/autores.html" />
       </list>
     </option>
   </component>
@@ -104,44 +111,6 @@
               <item name="ovisort" type="b2602c69:ProjectViewProjectNode" />
               <item name="ovisort" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
-            <path>
-              <item name="ovisort" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ovisort" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="ovisort" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ovisort" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="node_modules" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="ovisort" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ovisort" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="node_modules" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="mdbootstrap" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="ovisort" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ovisort" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="node_modules" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="mdbootstrap" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="ovisort" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ovisort" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="node_modules" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="mdbootstrap" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="ovisort" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ovisort" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="node_modules" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="mdbootstrap" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="mdb.js" type="620a8d5e:NestingTreeNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -177,17 +146,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527358117442</updated>
-      <workItem from="1527358121138" duration="3056000" />
+      <workItem from="1527358121138" duration="3237000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3056000" />
+    <option name="totallyTimeSpent" value="3237000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -235,14 +205,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/autores.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="55" lean-forward="false" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -261,8 +223,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="29" column="66" lean-forward="false" selection-start-line="29" selection-start-column="66" selection-end-line="29" selection-end-column="66" />
+        <state relative-caret-position="154">
+          <caret line="22" column="10" lean-forward="false" selection-start-line="22" selection-start-column="2" selection-end-line="82" selection-end-column="13" />
+          <folding>
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/autores.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="71" column="42" lean-forward="false" selection-start-line="71" selection-start-column="42" selection-end-line="71" selection-end-column="42" />
           <folding />
         </state>
       </provider>
