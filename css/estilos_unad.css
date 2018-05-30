@@ -37,3 +37,8 @@
 .color-unad-ecisa {
     background-color: #43c7f4 !important;
 }
+
+#header-logo {
+    margin-bottom: -35px !important;
+    padding-top: 5px;
+}
